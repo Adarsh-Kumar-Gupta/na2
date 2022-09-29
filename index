@@ -1,0 +1,79 @@
+<html>
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap"
+      rel="stylesheet"
+    />
+    <title>Demo Project</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- Header -->
+    <section class="header">
+      <nav>
+        <a class="img" href="demo.html"
+          ><img src="D:\HET DEVELOPMENT\img\logo.png"
+        /></a>
+        <div class="links">
+          <ul>
+            <li><a href="">About Us</a></li>
+            <li><a href="">Courses</a></li>
+            <li><a href="">Contact Us</a></li>
+          </ul>
+        </div>
+        <button class="button" type="button">Register</button>
+      </nav>
+    </section>
+
+    <!-- Hero -->
+      <section class="hero">
+        <div class="grid">
+            <div class="texttagline">
+              <p class="tagline">Your Study Abroad Expert</p>
+            </div>
+            <h1 class="main-text">Become a Professional.<br>
+              <samp class="text-line">either field.</samp> </h1>
+            <p class="paragraph-text">
+              The largest Personalised Student Counselling Study Abroad Platform
+              in the world. Obsessed with Student Success.
+            </p>
+            <div class="button-align">
+              <button class="button2" type="button">Get Your Shortlist for FREE</button>
+              <button class="button3" type="button">Talk to an Expert</button>
+            </div>
+            <div class="company">
+              <img src="D:\HET DEVELOPMENT\img\com.png" />
+            </div>
+            <div class="main-image">
+              <img src="D:\HET DEVELOPMENT\img\image1.png">
+            </div> 
+        </div>
+      </section>
+ 
+    <!-- plan-text -->
+    <section class="plan">
+      <div class="align">
+      <h1 class="headline">Learning anythings, anywhere, 
+        <span class="headline2">Learning anythings, anywhere, </span> 
+        <span class="headline3">Learning anythings, anywhere,</span> 
+      </h1>
+    </div>
+    </section>
+
+    <!-- career -->
+    
+    <!-- visa -->
+
+    <!-- Our Story-->
+
+    <!-- Testimonials -->
+    
+    <!-- Partners -->
+
+    <!-- Are you ready -->
+
+    <!-- footer -->
+    </html>
